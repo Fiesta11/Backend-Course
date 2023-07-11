@@ -1,11 +1,15 @@
 {
-  "name": "fiesta_calc",
+  "name": "test_folder",
   "version": "1.0.0",
-  "description": "creating npm module",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "fiesta_calc": "^1.0.0"
+  }
 }
