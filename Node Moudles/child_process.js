@@ -4,6 +4,6 @@ const cp = require('child_process')
 
 // cp.execSync('calc');
 
-// cp.execSync('start Firefox https://algouniversity.com/dashboard/');
+cp.execSync('start Firefox https://algouniversity.com/dashboard/');
 
-console.log('O/P: ' + cp.execSync('node demo.js'));
+// console.log('O/P: ' + cp.execSync('node demo.js'));
